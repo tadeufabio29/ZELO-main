@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "zelo",
+    "slug": "zelo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": false,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.anonymous.zelo"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "36076fb9-7a68-478e-b947-f9a98c6737e8"
+      },
+      "firebaseApiKey": "AIzaSyByM6H6XbZkkwEPaOJ-0itCJGNUr9W6t-U",
+      "firebaseAuthDomain": "zelo-app-25362.firebaseapp.com",
+      "firebaseProjectId": "zelo-app-25362",
+      "firebaseStorageBucket": "zelo-app-25362.firebasestorage.app",
+      "firebaseMessagingSenderId": "928702691541",
+      "firebaseAppId": "1:928702691541:web:aef0486cb0d89315590a5c"
+    }
+  }
+}
